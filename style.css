@@ -110,6 +110,7 @@ body{
 }
 /*--------------------------------Portfolio Page----------------------*/
 #portfoliopage{
+  color: white;
   background-color: #778899;
   height: auto;
   padding-top: 40px;
@@ -120,7 +121,6 @@ body{
 
 #portfoliopage h3{
   text-align: center;
-  color: white;
   font-size: 35px;
 }
 /*ios projects*/
