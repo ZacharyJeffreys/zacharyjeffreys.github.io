@@ -1,0 +1,209 @@
+/*Header*/
+body{
+  background-color: black;
+}
+#header{
+  background-color: #778899;
+  width: auto;
+  height: 30px;
+}
+/*---------------------Home Page --------------------*/
+#background{
+  background-image: url('https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2017/whatisspacet.jpg');
+  height: 450px;
+  padding-top: 40px;
+  border-radius: 15px;
+  width: auto;
+}
+#somebuttons a{
+  margin-left: 20px;
+  text-decoration: none;
+  font-family: cursive;
+  color: white;
+}
+#bio{
+  color: white;
+  text-align: center;
+  font-family: serif;
+}
+#bio h3{
+  font-size: 35px;
+}
+#bio p{
+  font-size: 20px;
+}
+#bio button{
+  margin-top: 200px;
+  font-size: 20px;
+  font-family: serif;
+  border-radius: 15px;
+  background-color: #7FFF00;
+  border-color: purple;
+}
+/*-----------------------------About Page --------------------------*/
+#aboutpage{
+  background-color: #778899;
+  height: 450px;
+  padding-top: 40px;
+  width: auto;
+  border-radius: 15px;
+  margin-top: 10px;
+}
+#aboutpagewrapper h3{
+  text-align: center;
+  font-size: 40px;
+  color: white;
+  margin-top: -18px;
+
+}
+#aboutpagewrapper p{
+  text-align: center;
+  font-size: 15px;
+  color: white;
+}
+#skillswrapper{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%
+}
+.skillscontainer{
+  background-color: grey;
+  text-align: right;
+}
+#skillsFirstColumn{
+  float: left;
+  width: 45%;
+}
+#uxresearchskill{
+  width: 90%;
+  background-color: #7CFC00;
+}
+#htmlcss{
+  width: 70%;
+  background-color: #7CFC00;
+}
+#SWIFT{
+  width: 80%;
+  background-color: #7CFC00;
+}
+#JavaScript{
+  width: 70%;
+  background-color: #7CFC00;
+}
+#Prototyping{
+  width: 90%;
+  background-color: #7CFC00;
+}
+#researchmethods{
+  width: 90%;
+  background-color: #7CFC00;
+}
+
+
+
+#skillsSecondColumn{
+
+  float: right;
+  width: 45%
+
+}
+/*--------------------------------Portfolio Page----------------------*/
+#portfoliopage{
+  background-color: #778899;
+  height: auto;
+  padding-top: 40px;
+  width: auto;
+  margin-top: 10px;
+  border-radius: 15px;
+}
+
+#portfoliopage h3{
+  text-align: center;
+  color: white;
+  font-size: 35px;
+}
+/*ios projects*/
+.projectsContainers{
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+#iosprojects{
+  background-color: lightgrey;
+  border-radius: 15px;
+  border-style: solid;
+}
+#iosprojects h2{
+  text-align: center;
+  font-size: 30px;
+  border-bottom: solid;
+}
+/*web development*/
+#webdevelopmentprojects{
+  margin-top: 20px;
+  background-color: lightgrey;
+  border-radius: 15px;
+  border-style: solid;
+}
+#webdevelopmentprojects h2{
+  text-align: center;
+  border-bottom: solid;
+  font-size: 30px;
+}
+#mainDogRegisteryPage img{
+  width: 600px;
+  height: auto;
+}
+/*UX Research Projects*/
+#uxresearchprojects{
+  background-color: lightgrey;
+  border-radius: 15px;
+  border-style: solid;
+  margin-top: 20px;
+}
+#uxresearchprojects h2{
+  border-bottom: solid;
+  text-align: center;
+  font-size: 30px;
+}
+#uxresearchprojects img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%
+}
+
+
+
+
+/*-------------------------------Contact Page --------------------------*/
+#contactmepage{
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/e/e3/Seattle_Kerry_Park_Skyline.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 15px;
+  margin-top: 10px;
+  height: 450px;
+  padding-top: 40px;
+  width: auto;
+}
+#contactmepage h3{
+
+  margin-top: -30px;
+  color: blue;
+  font-size: 30px;
+  font-family: serif;
+}
+#infoBox{
+  border-style: solid;
+  border-radius: 20px;
+  background-color: rgba(255,0,0,0.4);
+  width: 30%;
+  height: 85%;
+  float: right;
+}
+#infoBox h3{
+  text-align: center;
+  margin-top: 15px;
+}
