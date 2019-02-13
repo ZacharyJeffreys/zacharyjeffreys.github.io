@@ -127,6 +127,7 @@ body{
 /*web development*/
 .drWrapper{
   background-color: lightgrey;
+  border-style: solid;
 }
 /*UX Research Projects*/
 #uxresearchprojects{
