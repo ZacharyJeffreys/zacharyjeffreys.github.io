@@ -140,20 +140,9 @@ body{
   border-bottom: solid;
 }
 /*web development*/
-#webdevelopmentprojects{
-  margin-top: 20px;
+.drWrapper{
   background-color: lightgrey;
-  border-radius: 15px;
-  border-style: solid;
-}
-#webdevelopmentprojects h2{
   text-align: center;
-  border-bottom: solid;
-  font-size: 30px;
-}
-#mainDogRegisteryPage img{
-  width: 600px;
-  height: auto;
 }
 /*UX Research Projects*/
 #uxresearchprojects{
