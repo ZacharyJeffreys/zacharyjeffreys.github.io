@@ -123,26 +123,10 @@ body{
   text-align: center;
   font-size: 35px;
 }
-/*ios projects*/
-.projectsContainers{
-  width: 90%;
-  margin-left: auto;
-  margin-right: auto;
-}
-#iosprojects{
-  background-color: lightgrey;
-  border-radius: 15px;
-  border-style: solid;
-}
-#iosprojects h2{
-  text-align: center;
-  font-size: 30px;
-  border-bottom: solid;
-}
+
 /*web development*/
 .drWrapper{
   background-color: lightgrey;
-  text-align: center;
 }
 /*UX Research Projects*/
 #uxresearchprojects{
