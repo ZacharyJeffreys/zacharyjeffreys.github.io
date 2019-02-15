@@ -29,19 +29,19 @@ function showSlides(n) {
 }
 //---------------Buztle Sldier-------------------
 var iOSslideIndex = 1;
-showSlides(iOSslideIndex);
+iosshowSlides(iOSslideIndex);
 
 // Next/previous controls
-function plusSlides(n) {
-  showSlides(iOSslideIndex += n);
+function iosplusSlides(n) {
+  iosshowSlides(iOSslideIndex += n);
 }
 
 // Thumbnail image controls
-function currentSlide(n) {
-  showSlides(iOSslideIndex = n);
+function ioscurrentSlide(n) {
+  iosshowSlides(iOSslideIndex = n);
 }
 
-function showSlides(n) {
+function iosshowSlides(n) {
   var i;
   var slides = document.getElementsByClassName("iosSlides");
   var dots = document.getElementsByClassName("iosdot");
