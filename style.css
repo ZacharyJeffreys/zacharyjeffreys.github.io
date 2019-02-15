@@ -137,7 +137,7 @@ body{
   border-style: solid;
   border-radius: 20px;
 }
-/*UX Research Projects*/
+/*UX Research Project -- auditory vs visual memeory recall */
 .auditoryVisualStudyWrapper{
   margin-top:10px;
   background-color: lightgrey;
@@ -145,8 +145,13 @@ body{
   border-radius: 20px;
 }
 
-
-
+/* UX Research Project -- Ambition to Travel */
+.ambitonTravel{
+   margin-top:10px;
+  background-color: lightgrey;
+  border-style: solid;
+  border-radius: 20px;
+}
 
 /*-------------------------------Contact Page --------------------------*/
 #contactmepage{
