@@ -130,6 +130,13 @@ body{
   border-style: solid;
   border-radius: 15px;
 }
+/*iOSWrapper*/
+.iOSWrapper{
+  margin-top:10px;
+  background-color: lightgrey;
+  border-style: solid;
+  border-radius: 20px;
+}
 /*UX Research Projects*/
 #uxresearchprojects{
   background-color: lightgrey;
